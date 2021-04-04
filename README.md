@@ -1,6 +1,6 @@
 # Bellview
 
-Bellview is a crawler for [Kyber](https://github.com/MatthewEdwards/kyber-frontend) that will pull articles from news sources.
+Bellview is a crawler that will pull articles from news sources.
 
 ## Getting Started
 Bellview requires Python 3 and Redis
